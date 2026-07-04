@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Tamil Nadu Post Matric Scholarship",
+    "state": "Tamil Nadu",
+    "category": "BC/MBC/DNC/SC/ST",
+    "income_limit": 250000,
+    "eligibility": "Students pursuing higher education",
+    "benefit": "Tuition fee reimbursement and maintenance allowance",
+    "website": "https://scholarships.gov.in/"
+  },
+  {
+    "name": "Central Sector Scholarship",
+    "state": "India",
+    "category": "All",
+    "income_limit": 450000,
+    "eligibility": "Students with good academic performance",
+    "benefit": "₹12,000 - ₹20,000 per year",
+    "website": "https://scholarships.gov.in/"
+  },
+  {
+    "name": "AICTE Pragati Scholarship",
+    "state": "India",
+    "category": "Female",
+    "income_limit": 800000,
+    "eligibility": "Female students studying technical courses",
+    "benefit": "₹50,000 per year",
+    "website": "https://www.aicte-india.org/"
+  }
+]
